@@ -1,0 +1,12 @@
+/Users/khanhtran/Projects/game-yellowginger/PS8/Vector2D/bin/Debug/net7.0/Vector2D.deps.json
+/Users/khanhtran/Projects/game-yellowginger/PS8/Vector2D/bin/Debug/net7.0/Vector2D.dll
+/Users/khanhtran/Projects/game-yellowginger/PS8/Vector2D/bin/Debug/net7.0/Vector2D.pdb
+/Users/khanhtran/Projects/game-yellowginger/PS8/Vector2D/obj/Debug/net7.0/Vector2D.csproj.AssemblyReference.cache
+/Users/khanhtran/Projects/game-yellowginger/PS8/Vector2D/obj/Debug/net7.0/Vector2D.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khanhtran/Projects/game-yellowginger/PS8/Vector2D/obj/Debug/net7.0/Vector2D.AssemblyInfoInputs.cache
+/Users/khanhtran/Projects/game-yellowginger/PS8/Vector2D/obj/Debug/net7.0/Vector2D.AssemblyInfo.cs
+/Users/khanhtran/Projects/game-yellowginger/PS8/Vector2D/obj/Debug/net7.0/Vector2D.csproj.CoreCompileInputs.cache
+/Users/khanhtran/Projects/game-yellowginger/PS8/Vector2D/obj/Debug/net7.0/Vector2D.dll
+/Users/khanhtran/Projects/game-yellowginger/PS8/Vector2D/obj/Debug/net7.0/refint/Vector2D.dll
+/Users/khanhtran/Projects/game-yellowginger/PS8/Vector2D/obj/Debug/net7.0/Vector2D.pdb
+/Users/khanhtran/Projects/game-yellowginger/PS8/Vector2D/obj/Debug/net7.0/ref/Vector2D.dll

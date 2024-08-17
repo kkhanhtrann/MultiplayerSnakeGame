@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Server/1.0.0": {
+        "dependencies": {
+          "TheMap": "1.0.0",
+          "NetworkController": "1.0.0.0"
+        },
+        "runtime": {
+          "Server.dll": {}
+        }
+      },
+      "TheMap/1.0.0": {
+        "dependencies": {
+          "Vector2D": "1.0.0"
+        },
+        "runtime": {
+          "TheMap.dll": {}
+        }
+      },
+      "Vector2D/1.0.0": {
+        "runtime": {
+          "Vector2D.dll": {}
+        }
+      },
+      "NetworkController/1.0.0.0": {
+        "runtime": {
+          "NetworkController.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TheMap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vector2D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetworkController/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
