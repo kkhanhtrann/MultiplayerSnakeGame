@@ -1,5 +1,5 @@
 
-# Snake Game - PS8 
+# Snake Game 
 Our version of the traditional snake game offers another multiplayer encounter. In this version, players take control of snakes that enlarge as they eat the green and orange circles that stand in for food. The game tracks player scores on a leaderboard that displays the top five players according to the quantity of food they have consumed.
 - Author: Duy Khanh Tran & Orion Harmon
 
